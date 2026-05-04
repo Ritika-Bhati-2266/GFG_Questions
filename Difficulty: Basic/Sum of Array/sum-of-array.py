@@ -5,4 +5,5 @@ class Solution:
         sum=0
         for i in arr:
             sum = sum + i
+            
         return sum
